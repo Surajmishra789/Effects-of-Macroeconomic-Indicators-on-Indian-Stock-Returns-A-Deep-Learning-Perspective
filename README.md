@@ -1,4 +1,4 @@
-# nEffects of Macroeconomic Indicators on Indian Stock Returns: A Deep Learning Perspective  
+# Effects of Macroeconomic Indicators on Indian Stock Returns: A Deep Learning Perspective  
 
 ## Overview  
 This project investigates the relationship between key macroeconomic indicators and Indian stock market performance using advanced machine learning and deep learning techniques.  
