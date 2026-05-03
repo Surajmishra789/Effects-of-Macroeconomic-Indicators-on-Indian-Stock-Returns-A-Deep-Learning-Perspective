@@ -67,7 +67,7 @@ This project addresses whether deep learning models can outperform traditional e
 
 ---
 
-## 📊 Results  
+## Results  
 
 | Model         | Performance Summary      |
 |-------------- |--------------------------|    
